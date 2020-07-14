@@ -1,4 +1,4 @@
-![splash](https://github.com/halirutan/wlSplash2Small.jpg)
+![splash](https://raw.githubusercontent.com/halirutan/halirutan/master/wlSplash2Small.jpg)
 
 Hi, I'm Patrick. During the day, I'm a research scientist in the Neurophysics Department at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en) where my focus is on developing algorithms to quantify and analyse high-resolution MRI datasets.
 I like to spend my free-time on various projects that usually have something to do with math or science, however my most popular repository is the [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x), a small plugin for IntelliJ IDEs.
