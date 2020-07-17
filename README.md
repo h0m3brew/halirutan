@@ -15,7 +15,9 @@ Here are some random things about me:
 - I had the honor of working with Albert Rich on a [rule-based integrator for mathematica expressions](https://halirutan.de/programming/Rubi/)
 - I love [mathematical visualizing](https://mathematica.stackexchange.com/a/85731/187)
 
-<img align="center" src="https://i.stack.imgur.com/70PEH.png" alt="Visualization Collatz sequence">
+<p align="center">
+<img src="https://i.stack.imgur.com/70PEH.png" alt="Visualization Collatz sequence">
+</p>
 
 ## Where to find me...
 
