@@ -13,7 +13,7 @@ Here are some random things about me:
 - I have a [co-authorship distance of 3](https://www.csauthors.net/distance/donald-e-knuth/patrick-scheibe) with Donald E. Knuth
 - I love making music, usually rock but also [things like this](https://www.youtube.com/watch?v=tufrob3Ohlk), and I play several instruments
 - I had the honor of working with Albert Rich on a [rule-based integrator for mathematica expressions](https://halirutan.de/programming/Rubi/)
-- I love [mathematical visualizing](https://mathematica.stackexchange.com/a/85731/187)
+- I love [mathematical visualizing](https://mathematica.stackexchange.com/a/85731/187) like the feather-like Collatz sequence below
 
 <p align="center">
 <img src="https://i.stack.imgur.com/70PEH.png" alt="Visualization Collatz sequence">
